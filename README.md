@@ -5,3 +5,8 @@
 1)BMI caluclator
 2)Teperature converter
 3)SI calculator
+
+06/August/2026
+1)FizzBuzz
+2)Factorial
+3)Palindrome

@@ -13,3 +13,8 @@
 
 08/september/2026
 1)3 utility functions : Is Even , max three , String palindrome
+
+08/september/2026
+1)Count Vowels
+2)Capital word
+3)Character frequency

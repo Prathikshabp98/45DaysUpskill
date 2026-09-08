@@ -10,3 +10,6 @@
 1)FizzBuzz
 2)Factorial
 3)Palindrome
+
+08/september/2026
+1)3 utility functions : Is Even , max three , String palindrome

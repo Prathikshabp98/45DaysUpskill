@@ -18,3 +18,11 @@
 1)Count Vowels
 2)Capital word
 3)Character frequency
+
+6.09/september/2026 (Data structures)
+1)Sum of array
+2)duplicate strings
+3)wordsLength
+4)ArraySort
+5)Two Sum
+
